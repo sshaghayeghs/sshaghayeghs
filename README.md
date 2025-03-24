@@ -40,7 +40,7 @@ An embedding generation and evaluation framework for molecular data using LLMs l
 ### 🧬 [DDIPred](https://github.com/sshaghayeghs/DDIPred)  
 A GCN-based framework to predict drug-drug interactions using molecular structure embeddings.
 
-### 🛠️ [SentEval+](https://github.com/sshaghayeghs/SentEvalPlus)  
+### 🛠️ [SentEval+](https://github.com/sshaghayeghs/senteval-plus)  
 An advanced sentence embedding framework focused on post-processing techniques to enhance performance.
 
 ---
